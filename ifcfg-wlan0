@@ -1,0 +1,4 @@
+#DHCP client
+DEVICE=wlan1
+BOOTPROTO=dhcp
+ONBOOT=yes
