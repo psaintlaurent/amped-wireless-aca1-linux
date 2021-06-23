@@ -1,4 +1,4 @@
 The good folks over at Amped Wireless have an excellent usb adapter called the ACA1 which can be found at http://www.ampedwireless.com/products/aca1.html unfortunately they neglected to provide any linux driver support even though the device is really just generic hardware manufactured in taiwan using the rtl8812au chipset and re-branded as LoopComm, Edimax, Amped, etc.
 
-A one line addition to a single file adding the vendor and product id information was really all that was needed to make this work. If this worked for you e-mail Amped at customerservice@ampedwireless.com and tell them to pay me for doing their job :-)
+A one line addition to a single file adding the vendor and product id information plus reading several thousands lines of code and documentation was really all that was needed to make this work. If this worked for you e-mail Amped at customerservice@ampedwireless.com and tell them to pay me for doing their job :-)
 
